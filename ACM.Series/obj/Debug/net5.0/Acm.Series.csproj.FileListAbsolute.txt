@@ -1,0 +1,16 @@
+C:\Users\ADEMARDOCARMO\Documents\Dio\Acm.Series\obj\Debug\net5.0\Acm.Series.csproj.AssemblyReference.cache
+C:\Users\ADEMARDOCARMO\Documents\Dio\Acm.Series\obj\Debug\net5.0\Acm.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADEMARDOCARMO\Documents\Dio\Acm.Series\obj\Debug\net5.0\Acm.Series.AssemblyInfoInputs.cache
+C:\Users\ADEMARDOCARMO\Documents\Dio\Acm.Series\obj\Debug\net5.0\Acm.Series.AssemblyInfo.cs
+C:\Users\ADEMARDOCARMO\Documents\Dio\Acm.Series\obj\Debug\net5.0\Acm.Series.csproj.CoreCompileInputs.cache
+C:\Users\ADEMARDOCARMO\Documents\Dio\Acm.Series\bin\Debug\net5.0\Acm.Series.exe
+C:\Users\ADEMARDOCARMO\Documents\Dio\Acm.Series\bin\Debug\net5.0\Acm.Series.deps.json
+C:\Users\ADEMARDOCARMO\Documents\Dio\Acm.Series\bin\Debug\net5.0\Acm.Series.runtimeconfig.json
+C:\Users\ADEMARDOCARMO\Documents\Dio\Acm.Series\bin\Debug\net5.0\Acm.Series.runtimeconfig.dev.json
+C:\Users\ADEMARDOCARMO\Documents\Dio\Acm.Series\bin\Debug\net5.0\Acm.Series.dll
+C:\Users\ADEMARDOCARMO\Documents\Dio\Acm.Series\bin\Debug\net5.0\ref\Acm.Series.dll
+C:\Users\ADEMARDOCARMO\Documents\Dio\Acm.Series\bin\Debug\net5.0\Acm.Series.pdb
+C:\Users\ADEMARDOCARMO\Documents\Dio\Acm.Series\obj\Debug\net5.0\Acm.Series.dll
+C:\Users\ADEMARDOCARMO\Documents\Dio\Acm.Series\obj\Debug\net5.0\ref\Acm.Series.dll
+C:\Users\ADEMARDOCARMO\Documents\Dio\Acm.Series\obj\Debug\net5.0\Acm.Series.pdb
+C:\Users\ADEMARDOCARMO\Documents\Dio\Acm.Series\obj\Debug\net5.0\Acm.Series.genruntimeconfig.cache
